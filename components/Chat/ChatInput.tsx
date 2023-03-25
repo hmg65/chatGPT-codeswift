@@ -127,9 +127,9 @@ export const ChatInput: FC<Props> = ({ onSend, messageIsStreaming, model, stopCo
           rel="noreferrer"
           className="underline"
         >
-          ChatBot UI
+          CodeSwift
         </a>
-        . Chatbot UI is an advanced chatbot kit for OpenAI&apos;s chat models aiming to mimic ChatGPT&apos;s interface and functionality.
+        . CodeSwift is an advanced chatbot kit for OpenAI&apos;s chat models aiming to mimic ChatGPT&apos;s interface and functionality.
       </div>
     </div>
   );
