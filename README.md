@@ -29,7 +29,7 @@ docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 chatgpt-ui
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/chatbot-ui.git
+git clone https://github.com/hmg65/chatGPT-codeswift.git
 ```
 
 **2. Install Dependencies**
