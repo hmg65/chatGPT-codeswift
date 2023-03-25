@@ -20,7 +20,7 @@ Modify the system prompt in `utils/index.ts`.
 **Docker**
 
 ```shell
-docker build -t chatgpt-ui .
+docker build -t chatGPT-codeswift .
 docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 chatgpt-ui
 ```
 
