@@ -1,43 +1,11 @@
-# Chatbot UI
+# Code Swift - ChatGPT 3.5
 
-**Note: Chatbot UI Pro has been renamed to Chatbot UI.**
 
-Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of [Chatbot UI Lite](https://github.com/mckaywrigley/chatbot-ui-lite) using Next.js, TypeScript, and Tailwind CSS.
+CodeSwift is an advanced chatbot kit for OpenAI's chat models built on top of [Chatbot UI Lite](https://github.com/mckaywrigley/chatbot-ui-lite) using Next.js, TypeScript, and Tailwind CSS.
 
 It aims to mimic ChatGPT's interface and functionality.
 
 All conversations are stored locally on your device.
-
-See a [demo](https://twitter.com/mckaywrigley/status/1636103188733640704).
-
-![Chatbot UI](./public/screenshot.png)
-
-## Updates
-
-Chatbot UI will be updated over time.
-
-Expect frequent improvements.
-
-**Next up:**
-
-- [ ] More custom model settings
-- [ ] Regenerate & edit responses
-- [ ] Saving via data export
-- [ ] Folders
-- [ ] Prompt templates
-
-**Recent updates:**
-
-- [x] Custom system prompt (3/21/23)
-- [x] Error handling (3/20/23)
-- [x] GPT-4 support (access required) (3/20/23)
-- [x] Search conversations (3/19/23)
-- [x] Code syntax highlighting (3/18/23)
-- [x] Toggle sidebar (3/18/23)
-- [x] Conversation naming (3/18/23)
-- [x] Github flavored markdown (3/18/23)
-- [x] Add OpenAI API key in app (3/18/23)
-- [x] Markdown support (3/17/23)
 
 ## Modifications
 
