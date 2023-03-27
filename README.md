@@ -1,4 +1,4 @@
-# Code Swift - ChatGPT 3.5
+# Code Swift - ChatGPT
 
 
 CodeSwift is an advanced chatbot kit for OpenAI's chat models built on top of [Chatbot UI Lite](https://github.com/mckaywrigley/chatbot-ui-lite) using Next.js, TypeScript, and Tailwind CSS.

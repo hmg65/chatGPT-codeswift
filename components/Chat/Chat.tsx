@@ -56,7 +56,6 @@ export const Chat: FC<Props> = ({ conversation, models, messageIsStreaming, mode
                         models={models}
                         onModelChange={(model) => onUpdateConversation(conversation, { key: "model", value: model })}
                       />
-
                       <SystemPrompt
                         conversation={conversation}
                         onChangePrompt={(prompt) => onUpdateConversation(conversation, { key: "prompt", value: prompt })}

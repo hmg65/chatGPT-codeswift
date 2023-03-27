@@ -213,7 +213,7 @@ export default function Home() {
       id: lastConversation ? lastConversation.id + 1 : 1,
       name: `Conversation ${lastConversation ? lastConversation.id + 1 : 1}`,
       messages: [],
-      model: OpenAIModels[OpenAIModelID.GPT_3_5],
+      model: OpenAIModels[OpenAIModelID.GPT_4],
       prompt: DEFAULT_SYSTEM_PROMPT
     };
 
@@ -241,7 +241,7 @@ export default function Home() {
         id: 1,
         name: "New conversation",
         messages: [],
-        model: OpenAIModels[OpenAIModelID.GPT_3_5],
+        model: OpenAIModels[OpenAIModelID.GPT_4],
         prompt: DEFAULT_SYSTEM_PROMPT
       });
       localStorage.removeItem("selectedConversation");
@@ -268,7 +268,7 @@ export default function Home() {
       id: 1,
       name: "New conversation",
       messages: [],
-      model: OpenAIModels[OpenAIModelID.GPT_3_5],
+      model: OpenAIModels[OpenAIModelID.GPT_4],
       prompt: DEFAULT_SYSTEM_PROMPT
     });
     localStorage.removeItem("selectedConversation");
@@ -316,7 +316,7 @@ export default function Home() {
         id: 1,
         name: "New conversation",
         messages: [],
-        model: OpenAIModels[OpenAIModelID.GPT_3_5],
+        model: OpenAIModels[OpenAIModelID.GPT_4],
         prompt: DEFAULT_SYSTEM_PROMPT
       });
     }
