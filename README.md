@@ -9,8 +9,6 @@ All conversations are stored locally on your device.
 
 ## Modifications
 
-Modify the chat interface in `components/Chat`.
-
 Modify the sidebar interface in `components/Sidebar`.
 
 Modify the system prompt in `utils/index.ts`.
